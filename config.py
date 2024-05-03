@@ -36,7 +36,7 @@ class Txt(object):
 
 ➻ This Bot Also Supports Custom Thumbnail And Custom Caption.
 
-<b>Bot Is Made By :</b> @Madflix_Bots"""
+<b>Bot Is Made By :</b> @Deendayal_dhakad"""
 
     ABOUT_TXT = """
 ╭───────────────⍟
