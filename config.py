@@ -41,12 +41,12 @@ class Txt(object):
     ABOUT_TXT = """
 ╭───────────────⍟
 ├<b>🤖 My Name</b> : {}
-├<b>🖥️ Developer</b> : <a href=https://t.me/Madflix_Bots>Madflix Botz</a> 
-├<b>👨‍💻 Programer</b> : <a href=https://t.me/MadflixOfficials>Jishu Developer</a>
+├<b>🖥️ Developer</b> : <a href=https://t.me/Sorry_Sorry_Galti_Ho_Gai>Deendayal Dhakad</a> 
+├<b>👨‍💻 Bᴏᴛ Sᴇʀᴠᴇʀ</b> : <a href=https://heroku.com/>Heroku</a>
 ├<b>📕 Library</b> : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├<b>✏️ Language</b> : <a href=https://www.python.org>Python 3</a>
 ├<b>💾 Database</b> : <a href=https://cloud.mongodb.com>Mongo DB</a>
-├<b>📊 Build Version</b> : <a href=https://instagram.com/jishu.editz>Rename v4.5.0</a></b>     
+├<b>📊 Build Version</b> : <a href=https://instagram.com/Deendayal___dhaked>Rename v4.5.0</a></b>     
 ╰───────────────⍟
 """
 
@@ -72,7 +72,7 @@ class Txt(object):
 
 ➪ Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].           
 
-𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/MadflixOfficials>Developer</a>
+𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/Sorry_Sorry_Galti_Ho_Gai>Developer</a>
 """
 
     PROGRESS_BAR = """\n
@@ -87,7 +87,7 @@ class Txt(object):
 
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
-<b>🛍 UPI ID:</b> `madflixofficial@axl`
+<b>🛍 UPI ID:</b> `deendayaldhaked@ybl`
 """
 
 
