@@ -2,13 +2,13 @@ import os, time
 
 class Config(object):
     # pyro client config
-    API_ID    = os.environ.get("API_ID", "16681004")
-    API_HASH  = os.environ.get("API_HASH", "161b61f5a06dd299a3d88a3384b9f104")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6852088688:AAG4p0kVHSc9da4EkDDEV8fuu588hxUmNpE") 
+    API_ID    = os.environ.get("API_ID", "")
+    API_HASH  = os.environ.get("API_HASH", "")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
    
     # database config
     DB_NAME = os.environ.get("DB_NAME","cluster")     
-    DB_URL  = os.environ.get("DB_URL","mongodb+srv://deendayaldeenu84:r2sXoWGr3oYESdmS@cluster0.yhrcfhi.mongodb.net/?retryWrites=true&w=majority")
+    DB_URL  = os.environ.get("DB_URL","")
  
     # other configs
     BOT_UPTIME  = time.time()
